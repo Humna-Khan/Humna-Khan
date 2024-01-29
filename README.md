@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://your-image-url.com/your-image.png](https://www.themebeta.com/media/cache/728/files/chrome/images/201902/12/f35814add02e35dc111c1820740b2f2a.png)" alt="Title Image">
+</p>
+
 # Hi there, I'm Humna Khan! 👋
 
 I'm a passionate BS AI student with skills in UI/UX design, Python, C++, and exploratory data analysis (EDA). Welcome to my GitHub profile, where I love to collaborate on exciting projects and share my coding journey.
