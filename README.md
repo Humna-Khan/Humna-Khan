@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-image-url.com/your-image.png](https://www.themebeta.com/media/cache/728/files/chrome/images/201902/12/f35814add02e35dc111c1820740b2f2a.png)" alt="Title Image">
+  <img src="https://camo.githubusercontent.com/2b5d39e6cee1e0bbb1315d2ffc758aa65dfb9001df597d452cd8f7df1b2ddb8a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966" alt="Title Image">
 </p>
 
 # Hi there, I'm Humna Khan! 👋
