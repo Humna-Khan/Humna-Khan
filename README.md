@@ -27,7 +27,7 @@ I'm a passionate BS AI student with skills in UI/UX design, Python, C++, and exp
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile]([link-to-linkedin](https://www.linkedin.com/in/humna-khan-979503226/))
+- LinkedIn: [Your LinkedIn Profile]([link-to-linkedin](https://www.linkedin.com/in/humna-khan-979503226/)
 
 Feel free to reach out! I'm always open to collaborations and discussions.
 
