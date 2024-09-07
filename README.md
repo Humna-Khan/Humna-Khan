@@ -4,7 +4,7 @@
 
 # Hi there, I'm Humna Khan! 👋
 
-I'm a passionate BS AI student with skills in UI/UX design, Python, C++, and exploratory data analysis (EDA). Welcome to my GitHub profile, where I love to collaborate on exciting projects and share my coding journey.
+I'm a passionate AI student with skills in UI/UX design, Python, C++, and exploratory data analysis (EDA) and Machine Learning. Welcome to my GitHub profile, where I love to collaborate on exciting projects and share my coding journey.
 
 ## 🚀 Skills and Technologies
 
