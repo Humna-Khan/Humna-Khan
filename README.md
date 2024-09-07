@@ -9,7 +9,7 @@ I'm a passionate AI student with skills in UI/UX design, Python, C++, and explor
 ## 🚀 Skills and Technologies
 
 - *Programming Languages:* Python, C++, C
-- *UI/UX Design:* Adobe XD, Figma
+- *UI/UX Design:* Figma
 - *Data Analysis:* Exploratory Data Analysis (EDA)
 
 
